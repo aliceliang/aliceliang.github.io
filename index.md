@@ -3,7 +3,11 @@ layout: default
 title: aliceliang
 ---
 
-<h3>
-  <a name="welcome-to-my-empty-page" class="anchor" href="#welcome-to-my-empty-page"><span class="octicon octicon-link"></span></a>welcome to my empty page.</h3>
-
-<p>I haven't got any posts right now.  :)  Please check back in a week or something.</p>
+<h1> Commentary </h1>
+<ul class="posts">
+  {% for post in site.posts %}
+    {% if post.tags[0] == "commentary" %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
