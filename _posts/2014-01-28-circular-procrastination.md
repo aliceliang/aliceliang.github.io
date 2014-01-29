@@ -1,0 +1,23 @@
+---
+layout: post
+title: Circular Procrastination
+tags: commentary
+---
+
+I'm sure that I'm not the first person to come up with this idea, but I suppose I wanted to chronicle this really slow process of actually getting something done.  I've been wanting to set up my website for a while now, but it's only taken hold in the last couple weeks or so.  Just to give you an idea, this is how the timeline went:
+
+  &raquo; A year ago, I decided that this was something that was going to happen.
+
+  &raquo; Two months ago, I created this repository with the intention of setting up my personal site through which I couldx really express myself and have it be my internet calling card.
+
+  &raquo; A month ago, I finally registered the domain name 'aliceliang.info' at nearlyfreespeech.net.
+
+  &raquo; Two weeks ago, I got around to setting up the DNS to properly forward and display the domain name in the thingy.
+
+  &raquo; A couple days later, I set up the basic layout and structure with Jekyll.
+
+  &raquo;  Today, I am actually writing the first post.
+
+The thing you must know about me is that I used to be an avid planner.  I liked to plan things in advance; I liked to set up contingency plans; I liked enforcing others to my rigid worldview of planning.  The rigidity of my schedule was such that I wasn't able to back out of things that a past Alice had decided was good for her.  Naturally, this lead to a great deal of procrastination.  The funny thing is, I didn't actively plan on getting this website done.  This was a side effect of procrastinating on other, more difficult, and probably more important life tasks (like paying your bills and doing your taxes).
+
+Yay!  Procrastination came full circle for me, and I am a more productive human being for it.  This is a self hack that has worked well for me, at any rate.  Break it into small steps and before you know it, you've done what you've been otherwise putting off!  (cue soundtrack of the shopping channel)
