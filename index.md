@@ -3,7 +3,7 @@ layout: default
 title: aliceliang
 ---
 
-<h1> Commentary </h1>
+<h1> notes </h1>
 <ul class="posts">
   {% for post in site.posts %}
     {% if post.tags[0] == "commentary" %}
