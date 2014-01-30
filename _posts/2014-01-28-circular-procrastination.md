@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Circular Procrastination
+title: circular procrastination
 tags: commentary
 ---
 
