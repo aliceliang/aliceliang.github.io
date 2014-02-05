@@ -64,5 +64,3 @@ Likewise, if your dance partner is physically hurting you with his lead, feel fr
 ## Conclusion
 
 For some people, the joy of dancing ends with the dance, but I think that there are many parallels to be had with living life.  I may have missed some points or other subtleties, but I hope you've enjoyed this read, and maybe you've learned something new.  You should seriously consider taking up dance if you haven't already.  There's probably a litany of reasons and valid counterarguments to any of your objections.  ;)
-
-I also intend on adding a comment section to this.  It's on my list of todos.
