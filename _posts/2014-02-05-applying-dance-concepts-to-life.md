@@ -53,14 +53,16 @@ I've got some really short points that I'd like to make.
 
 In dance, your center is how your partner knows where you are, and where you are headed.  This is how you sync two bodies together in motion.  You can try to do this with some random person, but it probably won't work unless both of you are super clear with your centers and intention.  If they can't feel your center, you can't possibly hope to stay with or dance with them.
 
-I think this also goes for friendships and collaborations.  For deep and lasting relationships, it is important to be honest and for them to know exactly where you are.  You should be where/who you say you are.  If someone's center isn't clear, then it's really hard to gauge where to go from there, and at least one person is going to suffer the effects of bodily miscommunication.  This is different from the verbal communication that I mentioned earlier.
+I think this also goes for friendships and collaborations.  For deep and lasting relationships, it is important to be honest and for them to know exactly where you are.  You should be where/who you say you are.  If someone's center isn't clear, then it's really hard to gauge where to go from there, and at least one person is going to suffer the effects of nonverbal miscommunication.  This is different from the verbal communication that I mentioned earlier.  Basically, don't pretend or posture to be what you're not, and ain't nobody's gonna have a bad time.
 
 ### Regarding social dance
 
 Always be nice to your temporary partner and don't talk about their dancing abilities behind their back.  They might prove to be awesome partners later, and you're going to regret treating them badly.  Also it is just general courtesy.
 
-Likewise, if your dance partner is physically hurting you with his lead, feel free not to dance with them in the future.  You can say no, and if you are the person getting turned down, it may not be personal, and don't take it personally.  There is always another dance to be had, and another person to dance it with.
+Likewise, if your dance partner is physically hurting you with his lead, feel free not to dance with them in the future.  You can always say no, but you should do it politely.  If you happen to be the person getting turned down, it may not be personal, and don't take it personally.  There is always another dance to be had, and another person to dance it with.  Cue real life metaphors regarding relationships, whether they be personal or business.
 
 ## Conclusion
 
-For some people, the joy of dancing ends with the dance, but there are many parallels to be had with living life.  Anyway, I hope you've enjoyed this read, and maybe you've learned something new.  You should consider taking up dance if you haven't already.   ;)
+For some people, the joy of dancing ends with the dance, but I think that there are many parallels to be had with living life.  I may have missed some points or other subtleties, but I hope you've enjoyed this read, and maybe you've learned something new.  You should seriously consider taking up dance if you haven't already.  There's probably a litany of reasons and valid counterarguments to any of your objections.  ;)
+
+I also intend on adding a comment section to this.  It's on my list of todos.
