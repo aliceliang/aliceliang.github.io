@@ -6,7 +6,7 @@ tags: dance commentary
 
 It would be a true statement to say that as a result of dancing, I have become more self aware, a better communicator, and better at identifying the root cause of issues.
 
-For context, here's my dance background.  In high school, I took a high school dance class to get out of physical education classes.  Then I took a ballet class at my dance studio with a friend.  When I got to UC Berkeley, I joined [UC Berkeley Ballroom Dancing][1] and quickly succumbed to [addiction][2].  After that, it was more and more, and I started salsa dancing two years into starting ballroom.  A year later, it was blues.  Now I've been dancing for 6 years now, and I don't see myself stopping anytime in the near future.  I'm still dancing ballroom and blues maybe.. 10 hours every week.
+For context, here's my dance background.  In high school, I took a high school dance class to get out of physical education classes.  Then I took a ballet class at my dance studio with a friend.  When I got to UC Berkeley, I joined [Berkeley Ballroom][1] and quickly succumbed to [addiction][2].  After that, it was more and more, and I started salsa dancing two years into starting ballroom.  A year after starting salsa, it was blues.  I've dabbled in west coast swing, some bachata, kizomba and argentine tango.  It's been 6 years since I've started dancing ballroom now, and I don't see myself stopping anytime in the near future.  I'm still dancing ballroom and blues maybe.. 10 hours every week.
 [1]: http://www.ucbd.org/
 [2]: http://www.youtube.com/watch?v=Z_f7OioT2Gg
 
