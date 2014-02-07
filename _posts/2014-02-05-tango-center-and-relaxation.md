@@ -27,3 +27,5 @@ Space in tango, the guy is going forward in promenade link.
 Don't stop the energy even if you change direction.
 
 Importance of using hips to direct center and energy in tango.  Move your back, but keep your center to him.  Paying attention to hips when curving figures in tango.
+
+Some things that bother me about our tango hold (and hold in general) is that I always feel off balance because my partner always feels so far away.  We need to fix our hold.
